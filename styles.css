@@ -1,0 +1,16 @@
+.carousel-item img {
+    object-fit: cover;
+    width: 90%;
+    height: 92vh; 
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 100vh;
+}
+.card {
+    width: 18rem;
+}
